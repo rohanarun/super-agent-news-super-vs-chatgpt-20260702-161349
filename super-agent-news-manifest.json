@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[softonic.com](https://en.softonic.com)",
+    "[androidauthority.com](https://www.androidauthority.com)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)",
+    "[mit.edu](https://news.mit.edu)",
+    "[gizmodo.com](https://gizmodo.com)",
+    "[bgr.com](https://www.bgr.com)"
+  ],
+  "design_plan": "rng=42; AIDA verified (Attention: centered cinematic hero; Interest: clear comparison; Desire: computer-use cache advantage; Action: strong CTA). Hero width math targets 2\u20133 lines at ~1120px. Bento and compare grids use grid-auto-flow:dense. All tracked competitors label-swept once. Button contrast checked (ink on paper, white secondary).",
+  "generated_at": "2026-07-02T16:13:56.664079+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, source-backed comparison of Super and ChatGPT for people evaluating personal AI agents. ChatGPT excels as a general conversational assistant and is adding lightweight automation like Scheduled Tasks. Super is purpose-built for agents that actually operate computers and reuse a computer-use cache, making repeated workflows sharper, more durable, and cheaper over time. This page places Super and ChatGPT in the wider landscape alongside Gemini, Grok, Siri, Folk, and Orchids."
+}
